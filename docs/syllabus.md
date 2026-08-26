@@ -19,12 +19,11 @@ Thurs 1-2 PM
 
 | category | percentage |
 | - | - |
-| DataCamp | 10% |
-| in-class quizzes | 25% |
-| midterm | 25% |
+| quizzes | 25% |
+| midterm | 30% |
 | final project writeup | 5% |
 | final project presentation | 10% |
-| final | 25% |
+| final | 30% |
 
 ## Important Dates/Times
 
@@ -71,9 +70,31 @@ The following two books are useful supplemental references. They are standard bo
 
 Office hours will be held in person in my office at the times posted above. I am also happy to meet by appointment; send me an email to arrange a time.
 
-## DataCamp Assignments (DCs)
+## In-Class Quizzes
 
-Programming examples in lecture and the DataCamp assignments will use Python. Students are expected to enter the course with basic proficiency in Python programming. In particular, you should be comfortable working with variables and basic data structures, writing and using functions, using loops and conditional statements, and reading and modifying existing Python code. Familiarity with NumPy and pandas will also be useful.
+During the last 10 minutes of every Thursday class, there will be a short in-person quiz covering material from approximately the previous week. In-class quizzes account for 25% of the final grade.
+
+Students are expected to be present for every quiz. The two lowest quiz grades will be dropped. If you must miss a quiz for a legitimate reason, email me as soon as possible with an explanation. Your first two legitimate quiz absences will be absorbed by these two dropped quiz grades, so no make-up quiz will be given for those absences. Additional excused absences will be handled on a case-by-case basis.
+
+## Practice Questions
+
+The [course notes website](https://gjhunt.github.io/ml/) includes a Practice Questions section near the end of the site, with questions corresponding to the topics covered in the course. Solutions are provided with the questions. These are intended as additional practice and are strongly recommended when preparing for the midterm and final.
+
+## Midterm
+
+There will be one midterm given in class during the normal lecture time on Tuesday, October 13. The midterm accounts for 30% of the final grade.
+
+## Final
+
+There will be a final written exam worth 30% of the final grade. The final is scheduled for Monday, December 14, from 2:00-5:00 PM.
+
+## Final Project
+
+There will be a group project with a written report and an in-class presentation. Presentations will be held during the final two lecture meetings of the course. The final project writeup accounts for 5% of the final grade, and the presentation accounts for 10%. I will assign the midterm project after the Midterm and provide more information at that time. 
+
+## Python Preparation and Optional DataCamp Practice
+
+Programming examples in lecture will use Python. Students are expected to enter the course with basic proficiency in Python programming. In particular, you should be comfortable working with variables and basic data structures, writing and using functions, using loops and conditional statements, and reading and modifying existing Python code. Familiarity with NumPy and pandas will also be useful.
 
 This course is not intended to teach introductory Python programming. Students who are rusty with Python should spend some time reviewing before or during the first week of class.
 
@@ -87,31 +108,7 @@ Useful refresher resources include:
 
 * **[pandas Getting Started Tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html)** - a review of DataFrames and basic data manipulation.
 
-
-We'll have programming assignments on DataCamp throughout the course. In total, DataCamp assignments will be worth 10% of the final grade. Assignments will generally be due one week after they are posted at 11:59 PM ET.
-
-
-## In-Class Quizzes
-
-During the last 10 minutes of every Thursday class, there will be a short in-person quiz covering material from approximately the previous week. In-class quizzes account for 25% of the final grade.
-
-Students are expected to be present for every quiz. The two lowest quiz grades will be dropped. If you must miss a quiz for a legitimate reason, email me as soon as possible with an explanation. Your first two legitimate quiz absences will be absorbed by these two dropped quiz grades, so no make-up quiz will be given for those absences. Additional excused absences will be handled on a case-by-case basis.
-
-## Practice Questions
-
-The [course notes website](https://gjhunt.github.io/ml/) includes a Practice Questions section near the end of the site, with questions corresponding to the topics covered in the course. Solutions are provided with the questions. These are intended as additional practice and are strongly recommended when preparing for the midterm and final.
-
-## Midterm
-
-There will be one midterm given in class during the normal lecture time on Tuesday, October 13. The midterm accounts for 25% of the final grade.
-
-## Final
-
-There will be a final written exam worth 25% of the final grade. The final is scheduled for Monday, December 14, from 2:00-5:00 PM.
-
-## Final Project
-
-There will be a group project with a written report and an in-class presentation. Presentations will be held during the final two lecture meetings of the course. The final project writeup accounts for 5% of the final grade, and the presentation accounts for 10%. I will assign the midterm project after the Midterm and provide more information at that time. 
+Optional DataCamp exercises may be posted throughout the course to provide additional practice with Python and course concepts. These exercises are not required and will not count toward the final grade. Students are encouraged to use them as supplemental practice, particularly when additional experience with the programming material would be helpful.
 
 ## Other
 
