@@ -16,9 +16,9 @@ Course materials and schedule for MATH 455/555 at William & Mary.
 
 Lecture notes and practice problems are hosted on the [course notes website](https://gjhunt.github.io/ml/). Practice problems include solutions and correspond to the material in the associated notes.
 
-| Date | Topic | Notes | Practice Problems |
-| --- | --- | --- | --- |
-| Thu Aug 27 | Introduction to Statistical Machine Learning | [ch2](https://gjhunt.github.io/ml/lectures/000_intro_and_erm.html) | [ch23](https://gjhunt.github.io/ml/questions/000_intro_and_erm_questions.html) |
+| Date | Topic | Notes | Practice Problems | Datacamp | 
+| --- | --- | --- | --- | --- | 
+| Thu Aug 27 | Introduction to Statistical Machine Learning | [ch2](https://gjhunt.github.io/ml/lectures/000_intro_and_erm.html) | [ch23](https://gjhunt.github.io/ml/questions/000_intro_and_erm_questions.html) | [Intro. to Python.](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
 | Tue Sep 1 |  |  |  |
 | Thu Sep 3 |  |  |  |
 | Tue Sep 8 |  |  |  |
