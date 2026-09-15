@@ -23,7 +23,7 @@ Lecture notes and practice problems are hosted on the [course notes website](htt
 | Thu Sep 3 | More Linear Regression | [ch4](https://gjhunt.github.io/ml/lectures/002_linear_regression.html) | [ch25](https://gjhunt.github.io/ml/questions/002_linear_regression_questions.html) | [Intro. to Regression](https://app.datacamp.com/learn/courses/introduction-to-regression-with-statsmodels-in-python) ch 1-2 | 
 | Tue Sep 8 | Logistic Regression | [ch5](https://gjhunt.github.io/ml/lectures/003_logistic_regression.html) |  |
 | Thu Sep 10 | More Logistic Regression | [ch5](https://gjhunt.github.io/ml/lectures/003_logistic_regression.html) | [ch26](https://gjhunt.github.io/ml/questions/003_logistic_regression_questions.html)  | [Intro. to Logistic Regr.](https://app.datacamp.com/learn/courses/introduction-to-regression-with-statsmodels-in-python) | 
-| Tue Sep 15 |  |  |  |
+| Tue Sep 15 | Multivariate Logistic Regression, Evaluation | [ch6](https://gjhunt.github.io/ml/lectures/004_multiclass_logistic_regression.html) [ch7](https://gjhunt.github.io/ml/lectures/005_evaluation_and_model_selection.html) |  |
 | Thu Sep 17 |  |  |  |
 | Tue Sep 22 |  |  |  |
 | Thu Sep 24 |  |  |  |
