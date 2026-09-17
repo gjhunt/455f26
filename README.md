@@ -18,13 +18,13 @@ Lecture notes and practice problems are hosted on the [course notes website](htt
 
 | Date | Topic | Notes | Practice Problems | Datacamp | 
 | --- | --- | --- | --- | --- | 
-| Thu Aug 27 | Introduction to Statistical Machine Learning | [ch2](https://gjhunt.github.io/ml/lectures/000_intro_and_erm.html) | [ch23](https://gjhunt.github.io/ml/questions/000_intro_and_erm_questions.html) | [Intro. to Python.](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
-| Tue Sep 1 | Calculus and Linear Regression | [ch3](https://gjhunt.github.io/ml/lectures/001_derivatives.html) [ch4](https://gjhunt.github.io/ml/lectures/002_linear_regression.html)  | [ch24](https://gjhunt.github.io/ml/questions/001_derivatives_questions.html)  |
-| Thu Sep 3 | More Linear Regression | [ch4](https://gjhunt.github.io/ml/lectures/002_linear_regression.html) | [ch25](https://gjhunt.github.io/ml/questions/002_linear_regression_questions.html) | [Intro. to Regression](https://app.datacamp.com/learn/courses/introduction-to-regression-with-statsmodels-in-python) ch 1-2 | 
+| Thu Aug 27 | Introduction to Statistical Machine Learning | [ch2](https://gjhunt.github.io/ml/lectures/000_intro_and_erm.html) | [link](https://gjhunt.github.io/ml/questions/000_intro_and_erm_questions.html) | [Intro. to Python.](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
+| Tue Sep 1 | Calculus and Linear Regression | [ch3](https://gjhunt.github.io/ml/lectures/001_derivatives.html) [ch4](https://gjhunt.github.io/ml/lectures/002_linear_regression.html)  | [link](https://gjhunt.github.io/ml/questions/001_derivatives_questions.html)  |
+| Thu Sep 3 | More Linear Regression | [ch4](https://gjhunt.github.io/ml/lectures/002_linear_regression.html) | [link](https://gjhunt.github.io/ml/questions/002_linear_regression_questions.html) | [Intro. to Regression](https://app.datacamp.com/learn/courses/introduction-to-regression-with-statsmodels-in-python) ch 1-2 | 
 | Tue Sep 8 | Logistic Regression | [ch5](https://gjhunt.github.io/ml/lectures/003_logistic_regression.html) |  |
-| Thu Sep 10 | More Logistic Regression | [ch5](https://gjhunt.github.io/ml/lectures/003_logistic_regression.html) | [ch26](https://gjhunt.github.io/ml/questions/003_logistic_regression_questions.html)  | [Intro. to Logistic Regr.](https://app.datacamp.com/learn/courses/introduction-to-regression-with-statsmodels-in-python) | 
+| Thu Sep 10 | More Logistic Regression | [ch5](https://gjhunt.github.io/ml/lectures/003_logistic_regression.html) | [link](https://gjhunt.github.io/ml/questions/003_logistic_regression_questions.html)  | [Intro. to Logistic Regr.](https://app.datacamp.com/learn/courses/introduction-to-regression-with-statsmodels-in-python) | 
 | Tue Sep 15 | Multivariate Logistic Regression, Evaluation | [ch6](https://gjhunt.github.io/ml/lectures/004_multiclass_logistic_regression.html) [ch7](https://gjhunt.github.io/ml/lectures/005_evaluation_and_model_selection.html) |  |
-| Thu Sep 17 |  |  |  |
+| Thu Sep 17 | Evaluation and Selection | [ch7](https://gjhunt.github.io/ml/lectures/005_evaluation_and_model_selection.html) | [link](https://gjhunt.github.io/ml/questions/005_evaluation_and_model_selection_questions.html) | [Model Validation](https://app.datacamp.com/learn/courses/model-validation-in-python) ch 2-3
 | Tue Sep 22 |  |  |  |
 | Thu Sep 24 |  |  |  |
 | Tue Sep 29 |  |  |  |
