@@ -26,7 +26,7 @@ Lecture notes and practice problems are hosted on the [course notes website](htt
 | Tue Sep 15 | Multivariate Logistic Regression, Evaluation | [ch6](https://gjhunt.github.io/ml/lectures/004_multiclass_logistic_regression.html) [ch7](https://gjhunt.github.io/ml/lectures/005_evaluation_and_model_selection.html) |  |
 | Thu Sep 17 | Evaluation and Selection | [ch7](https://gjhunt.github.io/ml/lectures/005_evaluation_and_model_selection.html) | [link](https://gjhunt.github.io/ml/questions/005_evaluation_and_model_selection_questions.html) | [Model Validation](https://app.datacamp.com/learn/courses/model-validation-in-python) ch 2-3
 | Tue Sep 22 | NN Regr/Class | [ch8](https://gjhunt.github.io/ml/lectures/007_knn.html) | [link](https://gjhunt.github.io/ml/questions/007_knn_questions.html)  | [Super. Learn. with sklearn](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn) ch1 |
-| Thu Sep 24 |  |  |  |
+| Thu Sep 24 | Bias/Variance Tradeoff | [ch9](https://gjhunt.github.io/ml/lectures/008_bias_variance.html) | [link](https://gjhunt.github.io/ml/questions/008_bias_variance_questions.html) | | 
 | Tue Sep 29 |  |  |  |
 | Thu Oct 1 |  |  |  |
 | Tue Oct 6 |  |  |  |
