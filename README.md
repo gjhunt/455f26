@@ -28,8 +28,8 @@ Lecture notes and practice problems are hosted on the [course notes website](htt
 | Tue Sep 22 | NN Regr/Class | [ch8](https://gjhunt.github.io/ml/lectures/007_knn.html) | [link](https://gjhunt.github.io/ml/questions/007_knn_questions.html)  | [Super. Learn. with sklearn](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn) ch1 |
 | Thu Sep 24 | Bias/Variance Tradeoff | [ch9](https://gjhunt.github.io/ml/lectures/008_bias_variance.html) | [link](https://gjhunt.github.io/ml/questions/008_bias_variance_questions.html) | | 
 | Tue Sep 29 | Ridge Regression | [ch10](https://gjhunt.github.io/ml/lectures/009_ridge.html) | [link](https://gjhunt.github.io/ml/questions/009_ridge_questions.html) |
-| Thu Oct 1 |  |  |  |
-| Tue Oct 6 |  |  |  |
+| Thu Oct 1 | Ridge and LASSO | [ch10](https://gjhunt.github.io/ml/lectures/009_ridge.html) [ch11](https://gjhunt.github.io/ml/lectures/010_lasso.html) |  |
+| Tue Oct 6 | More LASSO | [ch11](https://gjhunt.github.io/ml/lectures/010_lasso.html) | [link](https://gjhunt.github.io/ml/questions/010_lasso_questions.html) | [Super. Learn. with sklearn](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn) ch2 |
 | Thu Oct 8 | **Fall Break - no class** |  |  |
 | Tue Oct 13 |  |  |  |
 | Thu Oct 15 |  |  |  |
