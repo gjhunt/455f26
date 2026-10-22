@@ -34,9 +34,8 @@ Lecture notes and practice problems are hosted on the [course notes website](htt
 | Thu Oct 8 | **Fall Break - no class** | --- | --- | --- | 
 | Tue Oct 13 | Midterm | --- | --- | --- | 
 | Thu Oct 15 | Neural Nets | [ch12](https://gjhunt.github.io/ml/lectures/012_nn.html) | [link](https://gjhunt.github.io/ml/questions/012_nn_questions.html) |
-| Thu Oct 15 | Backprop | [ch13](https://gjhunt.github.io/ml/lectures/013_backprop.html) | [link](https://gjhunt.github.io/ml/questions/013_backprop_questions.html) |
-| Tue Oct 20 |  |  |  |
-| Thu Oct 22 |  |  |  |
+| Thu Oct 20 | Backprop | [ch13](https://gjhunt.github.io/ml/lectures/013_backprop.html) | [link](https://gjhunt.github.io/ml/questions/013_backprop_questions.html) |
+| Thu Oct 22 | More Backprop | [ch13](https://gjhunt.github.io/ml/lectures/013_backprop.html) | [link](https://gjhunt.github.io/ml/questions/013_backprop_questions.html) |
 | Tue Oct 27 |  |  |  |
 | Thu Oct 29 |  |  |  |
 | Tue Nov 3 | **Election Day - no class** |  |  |
