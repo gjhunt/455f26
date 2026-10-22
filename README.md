@@ -11,6 +11,7 @@ Course materials and schedule for MATH 455/555 at William & Mary.
 - [Course notes](https://gjhunt.github.io/ml/)
 - [Course notes source](https://github.com/gjhunt/ml)
 - [William & Mary Fall 2026 academic calendar](https://www.wm.edu/offices/registrar/catalogs-calendars-exams/ugcalendar/26-27/)
+- [Final Project](docs/math455_project.pdf)
 
 ## Schedule
 
@@ -46,6 +47,6 @@ Lecture notes and practice problems are hosted on the [course notes website](htt
 | Thu Nov 19 |  |  |  |
 | Tue Nov 24 | **Remote instruction** |  |  |
 | Thu Nov 26 | **Thanksgiving Break - no class** |  |  |
-| Tue Dec 1 |  |  |  |
-| Thu Dec 3 |  |  |  |
+| Tue Dec 1 | Presentations |  |  |
+| Thu Dec 3 | Presentations |  |  |
 
