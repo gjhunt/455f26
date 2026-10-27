@@ -36,7 +36,7 @@ Lecture notes and practice problems are hosted on the [course notes website](htt
 | Thu Oct 15 | Neural Nets | [ch12](https://gjhunt.github.io/ml/lectures/012_nn.html) | [link](https://gjhunt.github.io/ml/questions/012_nn_questions.html) |
 | Thu Oct 20 | Backprop | [ch13](https://gjhunt.github.io/ml/lectures/013_backprop.html) | [link](https://gjhunt.github.io/ml/questions/013_backprop_questions.html) |
 | Thu Oct 22 | More Backprop | [ch13](https://gjhunt.github.io/ml/lectures/013_backprop.html) | [link](https://gjhunt.github.io/ml/questions/013_backprop_questions.html) |
-| Tue Oct 27 |  |  |  |
+| Tue Oct 27 | Neural Net Arch | [ch14](https://gjhunt.github.io/ml/lectures/014_nn_arch.html) | [link](https://gjhunt.github.io/ml/questions/014_nn_arch_questions.html) | [Deep Learn w. Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
 | Thu Oct 29 |  |  |  |
 | Tue Nov 3 | **Election Day - no class** |  |  |
 | Thu Nov 5 |  |  |  |
