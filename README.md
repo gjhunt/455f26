@@ -39,7 +39,7 @@ Lecture notes and practice problems are hosted on the [course notes website](htt
 | Tue Oct 27 | Neural Net Arch | [ch14](https://gjhunt.github.io/ml/lectures/014_nn_arch.html) | [link](https://gjhunt.github.io/ml/questions/014_nn_arch_questions.html) | [Deep Learn w. Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
 | Thu Oct 29 | PCA | [ch15](https://gjhunt.github.io/ml/lectures/016_pca.html) | [link](https://gjhunt.github.io/ml/questions/016_pca_questions.html) |
 | Tue Nov 3 | **Election Day - no class** |  |  |
-| Thu Nov 5 |  |  |  |
+| Thu Nov 5 | More PCA | [ch15](https://gjhunt.github.io/ml/lectures/016_pca.html) | [link](https://gjhunt.github.io/ml/questions/016_pca_questions.html) | [Unsuper. Learn. in Python](https://app.datacamp.com/learn/courses/unsupervised-learning-in-python) ch3
 | Tue Nov 10 |  |  |  |
 | Thu Nov 12 |  |  |  |
 | Tue Nov 17 |  |  |  |
